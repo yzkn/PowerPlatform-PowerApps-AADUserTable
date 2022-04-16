@@ -1,2 +1,9 @@
 # PowerPlatform-PowerApps-AADUserTable
- AAD Userテーブルのテスト
+
+---
+
+AAD Userテーブルのテスト
+
+---
+
+Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
